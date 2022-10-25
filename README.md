@@ -5,4 +5,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriajsan&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
+<div>
+  <img width="100%" height="195px" src="https://github.com/Oriajsan/Oriajsan/blob/output/github-contribution-grid-snake.svg" /> 
+</div>
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d8fda&height=160&section=footer"/>
