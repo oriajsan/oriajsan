@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d8fda&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Jairo%20Santana&fontSize=60&fontColor=c3d0d9"/>
 
 <div align="center">  
-  <img width="51%" height="250px" src="https://github-readme-stats.vercel.app/api?username=oriajsan&show_icons=true&count_private=true&hide_border=true&theme=github_dark&icon_color=4d8fda" PAT_1/> 
-  <img width="43%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriajsan&layout=compact&hide_border=true&theme=github_dark" PAT_1/>
+  <img width="51%" height="250px" src="https://github-readme-stats.vercel.app/api?username=oriajsan&show_icons=true&count_private=true&hide_border=true&theme=github_dark&icon_color=4d8fda" /> 
+  <img width="43%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriajsan&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-
+PAT_1 = env
 
 <div align="center">
 <div style="display: inline_block">
