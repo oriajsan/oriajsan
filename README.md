@@ -5,8 +5,6 @@
   <img width="43%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriajsan&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-PAT_1 = env
-
 <div align="center">
 <div style="display: inline_block">
   <h1>Meu domínio:</h1>
