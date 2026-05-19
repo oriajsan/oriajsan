@@ -1,30 +1,75 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d8fda&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Jairo%20Santana&fontSize=60&fontColor=c3d0d9"/>
-
-<div align="center">  
-  <img width="51%" height="250px" src="https://github-readme-stats.vercel.app/api?username=oriajsan&show_icons=true&count_private=true&hide_border=true&theme=github_dark&icon_color=4d8fda" /> 
-  <img width="43%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriajsan&layout=compact&hide_border=true&theme=github_dark" />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d8fda&height=150&section=header&text=Olá!%20Eu%20sou%20o%20Jairo%20Santana&fontSize=44&fontColor=c3d0d9"/>
 
 <div align="center">
-<div style="display: inline_block">
-  <h1>Meu domínio:</h1>
-  <img align="center" alt="oriajsan-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="oriajsan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="oriajsan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="oriajsan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  <img align="center" alt="oriajsan-Phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="oriajsan-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-  <p></p>
-  
-  <h1>Contatos:</h1>
-  <a href="https://instagram.com/oriajsan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href= "mailto:jairosd01101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5575998447430" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/Oriajsan" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white target=_blank"></a>
-  <a href="https://www.linkedin.com/in/jairosan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <h2>Full Stack Developer | React | TypeScript | Node.js | Ruby on Rails</h2>
 
-  <img width="100%" height="195px" src="https://github.com/oriajsan/oriajsan/blob/output/github-contribution-grid-snake.svg" /> 
+  <p>
+    Desenvolvedor Full Stack e graduando em Engenharia da Computação pela UFS,
+    com experiência em produto web, sistemas enterprise e projetos acadêmicos.
+  </p>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d8fda&height=160&section=footer"/>
+  <p>
+    Atuo principalmente com frontend/fullstack, APIs REST, integração entre camadas,
+    debugging, manutenção evolutiva, componentização e responsividade.
+  </p>
 </div>
+
+<br/>
+
+<div align="center">
+  <h3>Stack principal</h3>
+
+  <img align="center" alt="JavaScript" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vue.js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Node.js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ruby" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Rails" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
 </div>
+
+<br/>
+
+<div align="center">
+  <h3>Ferramentas e tecnologias</h3>
+
+  <img align="center" alt="PostgreSQL" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Redis" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="Docker" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Figma" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Salesforce" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Atuação</h3>
+
+  <p>
+    Frontend • Full Stack • APIs REST • Integração frontend/backend • Debugging<br/>
+    Manutenção evolutiva • Responsividade • Componentização • Regras de negócio
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Contatos</h3>
+
+  <a href="mailto:jairosd01101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jairosan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/oriajsan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d8fda&height=120&section=footer"/>
