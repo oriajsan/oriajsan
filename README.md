@@ -72,13 +72,13 @@
   <h3>Contatos</h3>
 
   <a href="https://oriajsan.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-2a6bb5?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-2a6bb5?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   <a href="mailto:jairosd01101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/oriajsan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
